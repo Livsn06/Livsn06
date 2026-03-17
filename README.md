@@ -5,7 +5,7 @@ I'm Joel, a Fullstack Developer focused on building real-world web applications 
 ---
 
 ### 🚀 About Me
-I’m currently an Junior Developer who expertising AI and Machine Learning integration to my developed applications.  
+I’m currently an Junior Developer who expertising AI Automation and Machine Learning integration to my developed applications.  
 I also focus on building practical applications that solve real problems, especially in web platforms and automation.
 
 ---
