@@ -25,7 +25,7 @@ A Junior Developer who expertising AI Automation to integrate to my developed ap
 ---
 
 ### 📫 How to Reach Me
-- Email: [joelgutlay04@gmail.com@example.com] 
+- Email: [joelgutlay04@gmail.com] 
 - GitHub: [https://github.com/Livsn06]
 - Facebook: [https://www.facebook.com/jmcgty]
 
